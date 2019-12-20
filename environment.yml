@@ -1,4 +1,4 @@
-name: manim
+name: ganim
 channels:
   - defaults
   - conda-forge
